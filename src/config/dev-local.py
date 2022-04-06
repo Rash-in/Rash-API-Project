@@ -25,5 +25,5 @@ capture_output = True
 # PID file so you can easily fetch process ID
 pidfile = path_to_pids
 # Daemonize the Gunicorn process (detach & enter background)
-daemon = True
-reload = True
+daemon = False
+# reload = True
