@@ -1,5 +1,5 @@
 # PID removal
-dev-local.pid
+rash_api.pid
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

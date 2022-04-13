@@ -1,1 +1,0 @@
-Leave this in the folder. If the folder was empty git would not recognize it in the layout.
