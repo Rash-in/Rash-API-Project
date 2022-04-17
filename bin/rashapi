@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# THIS CLI IS A WORK IN PROGRESS SO THAT YOU DON'T NEED TO CONTINUE MANUALLY RUNNING SCRIPTS
+
+SCRIPTPATH="$( cd -- "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"
+INSTALL_PATH="$(dirname "${SCRIPTPATH}")"
+
+
+#echo "$(. $SCRIPTPATH/dev_local/install_dev_local.sh)"
